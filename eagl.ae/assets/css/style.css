@@ -1046,7 +1046,7 @@ footer .copyright p {
 }
 
 .landingPage .team .leftSide .questions .card .card-body table tr:nth-child(even) {
-    background-color: #fbeae7;
+    background-color: #bfbfbf;
 }
 
 .landingPage .team .leftSide .questions .card .card-body table.table-responsive {
@@ -1470,7 +1470,7 @@ footer .copyright p {
 }
 
 .aboutSection .calendar table tr:nth-child(even) {
-    background-color: #fbeae7;
+    background-color: #bfbfbf;
 }
 
 .aboutSection .calendar table tr:last-child {
@@ -1627,7 +1627,7 @@ footer .copyright p {
 }
 
 .playerSection .whocanregister table tr:nth-child(even) {
-    background-color: #fbeae7;
+    background-color: #bfbfbf;
 }
 
 .playerSection .whocanregister table tr:first-child {
@@ -1743,7 +1743,7 @@ footer .copyright p {
 }
 
 .sponsorSection .opportunity table tr:nth-child(even) {
-    background-color: #fbeae7;
+    background-color: #bfbfbf;
 }
 
 .sponsorSection .opportunity table tr:first-child {
@@ -1799,7 +1799,7 @@ footer .copyright p {
 }
 
 .teamsSection table tr:nth-child(even) {
-    background-color: #fbeae7;
+    background-color: #bfbfbf;
 }
 
 .teamsSection table td,
@@ -1854,7 +1854,7 @@ footer .copyright p {
     background-position: right 20px center;
     background-size: 25px;
     width: 100%;
-    background-color: #fbeae7;
+    background-color: #bfbfbf;
     border: none;
     padding: 10px 20px;
     font-family: Teko;
@@ -1907,7 +1907,7 @@ footer .copyright p {
 }
 
 .eaglSection table tr:nth-child(even) {
-    background-color: #fbeae7;
+    background-color: #bfbfbf;
 }
 
 .eaglSection .calendar {
@@ -1961,7 +1961,7 @@ footer .copyright p {
 .eaglSection .draws .table2 tr:first-child,
 .eaglSection .leaderboard .table2 tr:first-child,
 .eaglSection .teamstandings .table2 tr:first-child {
-    background-color: #fbeae7;
+    background-color: #bfbfbf;
 }
 
 .eaglSection .fixtures .table3,
@@ -1975,7 +1975,7 @@ footer .copyright p {
 .eaglSection .draws .table3 tr:first-child,
 .eaglSection .leaderboard .table3 tr:first-child,
 .eaglSection .teamstandings .table3 tr:first-child {
-    background-color: #fbeae7;
+    background-color: #bfbfbf;
 }
 
 .eaglSection .video,
@@ -2258,7 +2258,7 @@ footer .copyright p {
 
 .unveiledParty .section-4 .nav.nav-pills .nav-item .nav-link.active {
     border-radius: 0;
-    background-color: #fbeae7;
+    background-color: #bfbfbf;
 }
 
 .unveiledParty .section-4 .tab-content h4 {
@@ -5283,7 +5283,7 @@ footer .copyright p {
     .miniAboutsMobile {
         display: block;
         height: 34px;
-        background-color: #fbeae7;
+        background-color: #bfbfbf;
     }
     .miniAboutsMobile button {
         -webkit-appearance: none;
