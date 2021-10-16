@@ -6005,3 +6005,7 @@ footer .copyright p {
         min-height: 320px;
     }
 }
+
+.opacity-0 {
+    opacity: 0;
+}
