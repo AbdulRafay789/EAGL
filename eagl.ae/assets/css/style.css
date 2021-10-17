@@ -389,7 +389,7 @@ button:active {
 .teamsSection,
 .contactSection,
 .testimonialSection {
-    background-image: url(../images/background.png);
+    /* background-image: url(../images/background.png); */
     background-repeat: repeat;
 }
 
