@@ -1757,6 +1757,10 @@ footer .copyright p {
     padding: 50px 200px 100px 200px;
 }
 
+.sponsorSection .sponsors {
+    padding: 50px 200px 100px 200px;
+}
+
 .teamsSection .miniHeads {
     color: #666666;
     font-size: 20px;
@@ -3086,6 +3090,9 @@ footer .copyright p {
     .sponsorSection .benefits {
         padding: 40px 200px 100px 200px;
     }
+    .sponsorSection .sponsors {
+        padding: 40px 200px 100px 200px;
+    }
     .teamsSection ul li {
         font-size: 20px;
     }
@@ -3621,6 +3628,9 @@ footer .copyright p {
     .sponsorSection .benefits {
         padding: 30px 150px 80px 150px;
     }
+    .sponsorSection .sponsors {
+        padding: 30px 150px 80px 150px;
+    }
     .teamsSection .numberofteams {
         padding: 80px 150px 30px 150px;
     }
@@ -3997,6 +4007,9 @@ footer .copyright p {
         padding: 80px 100px 30px 100px;
     }
     .sponsorSection .benefits {
+        padding: 30px 100px 80px 100px;
+    }
+    .sponsorSection .sponsors {
         padding: 30px 100px 80px 100px;
     }
     .teamsSection .numberofteams {
@@ -5088,6 +5101,9 @@ footer .copyright p {
         padding: 40px 20px 0px 20px;
     }
     .sponsorSection .benefits {
+        padding: 40px 20px 40px 20px;
+    }
+    .sponsorSection .sponsors {
         padding: 40px 20px 40px 20px;
     }
     .teamsSection ul li {
